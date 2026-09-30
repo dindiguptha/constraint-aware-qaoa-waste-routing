@@ -1,0 +1,16 @@
+{
+  "std_n": 100,
+  "std_mean": 2.5080000000000005,
+  "std_sd": 0.805689766597541,
+  "ansatz_n": 100,
+  "ansatz_mean": 12.844000000000001,
+  "ansatz_sd": 6.201392101778438,
+  "welch_t": 16.445465798656446,
+  "welch_p": 1.7212161832652138e-30,
+  "mannwhitney_u": 10000.0,
+  "mannwhitney_p": 1.178558488086659e-34,
+  "mean_difference": 10.336,
+  "bootstrap_ci_low": 9.150000000000004,
+  "bootstrap_ci_high": 11.610050000000001,
+  "n_bootstrap": 10000
+}
